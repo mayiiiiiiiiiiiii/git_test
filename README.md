@@ -1,0 +1,1 @@
+This is Mayi's first git project!
